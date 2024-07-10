@@ -59,3 +59,6 @@ def prediction():
 #     "LoanAmount" : 50000,
 #     "Credit_History" : "Cleared Debts"
 # }
+
+
+# Colab_file = "https://colab.research.google.com/drive/126GHpghQWbs7us91zyu4uoOGtobbfUkt#scrollTo=1PA4unYcphfW"

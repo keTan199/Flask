@@ -51,7 +51,7 @@ def prediction():
     return {"loan_approval_status": pred}
 
 
-#PostMan Data
+#PostMan Data Jason Opeining
 # {
 #     "Gender" : "Male",
 #     "Married" : "Unmarried",
@@ -62,3 +62,6 @@ def prediction():
 
 
 # Colab_file = "https://colab.research.google.com/drive/126GHpghQWbs7us91zyu4uoOGtobbfUkt#scrollTo=1PA4unYcphfW"
+
+#Run Command
+#flask --app practice run
